@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good and true newes from Redding, Being an exact relation of the proceedings of his Excellence the Earl of Essex, since he advanced from Windsore, the true estate of the siege, what number of men slain, what workes his excellency hath gained from the enemy, in what possibility he is of taking the town, faithfully related. With a true relation of the accesse of forces to the Lord generall, since his going before Redding. Printed at the desires of many, to un-deceive the people, from the lying reports raised by malignants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85340</idno>
+            <idno type="STC">Wing G1037</idno>
+            <idno type="STC">Thomason E99_2</idno>
+            <idno type="STC">ESTC R20249</idno>
+            <idno type="EEBO-CITATION">99862747</idno>
+            <idno type="PROQUEST">99862747</idno>
+            <idno type="VID">155837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155837)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good and true newes from Redding, Being an exact relation of the proceedings of his Excellence the Earl of Essex, since he advanced from Windsore, the true estate of the siege, what number of men slain, what workes his excellency hath gained from the enemy, in what possibility he is of taking the town, faithfully related. With a true relation of the accesse of forces to the Lord generall, since his going before Redding. Printed at the desires of many, to un-deceive the people, from the lying reports raised by malignants.</title>
+               </titleStmt>
+               <extent>5 [i.e. 7], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. G. to be sold at the Galley in Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Last page filmed with A continuation of certain speciall and remarkable passages. Number 41. 13-20 Aprill. 1643. also at reel 244:E99[3].</note>
+                  <note>Numerous mispaginations.</note>
+                  <note>Annotation on Thomason copy: "Aprill 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Early works to 1800.</term>
+               <term>Reading (Berkshire) --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155837:1"/>
+            <pb facs="tcp:155837:1" rendition="simple:additions"/>
+            <p>Good and true Newes FROM REDDING, BEING An exact Relation of the proceedings of his Excellence the Earl of ESSEX, ſince he ad<g ref="char:EOLhyphen"/>vanced from <hi>Windſore,</hi> the true eſtate of the Siege, what number of men ſlain, what Workes his Excellency hath gained from the Enemy, in what poſſibility he is of ta<g ref="char:EOLhyphen"/>king the town, faithfully related.</p>
+            <p>With a true Relation of the acceſſe of Forces to the Lord Generall, ſince his going before <hi>Redding.</hi>
+            </p>
+            <p>
+               <hi>Printed at the deſires of many, to un-deceive the People, from the lying reports raiſed by Malignants.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>J. G.</hi> to be ſold at the <hi>Galley</hi> in Corn-hill. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:155837:2"/>
+            <pb facs="tcp:155837:2"/>
+            <head>True intelligence from the Siege at REDDJNG.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E have now at laſt quitted our old Quarters, and hope to give the world notice, it was reaſon and judgement that kept us ſo long at <hi>Windſore,</hi> and not cowardice, or ill will to the Cauſe; and though perhaps ſome Officers have been fauity (as what Army is free) yet as true it is, that thoſe fai<g ref="char:EOLhyphen"/>lings have been preſented through the multiplying glaſſe of envy, jealouſie and feare, and you may well believe there hath been a ſtrong malignant influence fomen<g ref="char:EOLhyphen"/>ting and imbittering theſe jealouſies and repinings which you have been too much guilty of: our enemies know well, if they can but make us ſuſpect our friends, they have laid a good ground for diviſion, and you know the Proverb, <hi>Divide and raigne.</hi> But I know it is Newes, not Counſell you
+<pb facs="tcp:155837:3"/>expect from a Leaguer: wherefore I ſhall ſatisfie you of the true ſtate of our Army here. VVhen my Lord Generall remo<g ref="char:EOLhyphen"/>ved from <hi>Windſore,</hi> it was generally given out we were to go for <hi>Oxford,</hi> which we believed; becauſe my Lord in his march ſeemed to paſſe by <hi>Redding,</hi> which, it ſeems he did to buſie their heads in taking care to provide for <hi>Oxford,</hi> that ſo <hi>Redding</hi> be<g ref="char:EOLhyphen"/>ing neglected, he might take them leſſe provided for a ſiege, which fell out accor<g ref="char:EOLhyphen"/>dingly: for my Lord ſuddenly wheeling about came before <hi>Redding,</hi> he ſummoned the towne for the King and Parliament, but <hi>Aston</hi> the Governour (a Papiſt, and one that is guilty of divers murders) an<g ref="char:EOLhyphen"/>ſwered very reſolutely, <hi>He would keep the town or ſtarve in it,</hi> my Lord ſent to them to have the women and children let out, which he refuſed, my Lord ſeeing that the town muſt be caried by the Gun &amp; Spade, and not by words, went that way to work, and is very like to ſpeed.</p>
+            <pb n="4" facs="tcp:155837:3"/>
+            <p>The Town is very ſtrongly fortefied, many out-workes, commanded by ſome main Bul<g ref="char:EOLhyphen"/>warkes, more inward, the Garriſon 3000. or more, beſides the Towneſmen, there are neare 22. pieces of Ordnance, to tell you the particular Quarters of each Regiment were uſeleſſe to you, being you know not the Town, onely in gene<g ref="char:EOLhyphen"/>rall thus, my Lord incampt on the Weſt ſide of the Town, between Redding and Oxford, the better to hinder any aid that ſhould come from thence to the town, he alſo tooke care to ſecure the River, that no reliefe ſhould come that way, then fell wee preſently to worke with the Spade, to intrench our Quarters, which worke was car<g ref="char:EOLhyphen"/>ried on with more facillity and ſpeed then could be expected, the ſouldiers (herein right ſouldiers) (being willing to fight with the Spade as well as the Sword) ſucceſsively relieving one another, Night and Day, the next worke was to view the ground, for to make our approaches, to which purpoſe eight went out, of which number the al<g ref="char:EOLhyphen"/>worthy Major SKIPPON was one the Enemy perceiving our intention, laboured by their ſhot, and by ſetting ſome Barns on fire, that by the
+<pb n="4" facs="tcp:155837:4"/>ſmoake that ſo they might hinder them but yet they did their worke, and God kept them ſafe, onely one a mean Officer received a ſhot. Serge<g ref="char:EOLhyphen"/>ant Major being returned, wee began to make our approaches, eſpecially towards a hill called Cauſam-hill, which the Enemy had fortified, being it commands the Town, by our aproaches we have gained moſt part of the hill, and driven the Enemy to his more inward workes, on this hill wee have raiſed ſome Batteries, that do much annoy the Enemy, we draw on our work amain, to the Enemies remaining ſtrengths, and have brought them in ſome places within halfe Muſ<g ref="char:EOLhyphen"/>ket ſhot, in deſpight of the Enemies Musket or Cannon, which you may thinke have not been idle, ſo that we hope to gain it in a ſhort time, though the Enemy have many Workes one with<g ref="char:EOLhyphen"/>in another, they had planted ſome Ordnance in a Steeple, but we have made them ſeek their Ord<g ref="char:EOLhyphen"/>nance in the ruines of the Steeple, the like we have done to ſome of their chiefe ſtrengths, for our Cannon has not reſted, ſome ſlight ſallies they have made out of the town, but have been beaten in with loſſe, our men are very forward,
+<pb n="5" facs="tcp:155837:4"/>and would carry the town by an aſſault, but our prudent Generall had rather looſe a little time to gain it, then looſe ſo much good blood, wee hope to carry it in 3. or foure dayes; if not we be<g ref="char:EOLhyphen"/>lieve my Lord Generall will advance towards Oxford, and leave Major Generall with part of his Forces to take in this Town, our Workes bee<g ref="char:EOLhyphen"/>ing by this time finiſht, our ſouldiers have won ſome out workes, which they have left, as being no way uſefull to them, what ever lying reports ye have in London, this is the truth, wee have not loſt above Fifteene men by the Ene<g ref="char:EOLhyphen"/>my, and tenne or twelve ſlain and maimed by a Barrell of Powder that was ſet on fire by a miſ<g ref="char:EOLhyphen"/>chance, the Country comes in exceedingly, you may do well to ſend as many of your Forces as you can ſpare, to ſurprize thoſe Raſcals, while my Lord goeth to Oxford, you muſt not expect long Letters from a Leaguer, but I have been the lon<g ref="char:EOLhyphen"/>ger, to contradict thoſe falſe lies that wee heare are among you, you ſhall heare from me by the next, farewell.</p>
+            <closer>
+               <dateline>
+                  <hi>From the Leaguer before Redding</hi> 
+                  <date>
+                     <hi>Aprill</hi> 17.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:155837:5"/>
+            <head>From the Leaguer before Redding Aprill <hi>19.</hi>
+            </head>
+            <p>SIr, I am glad you received my laſt, I wonder your malig<g ref="char:EOLhyphen"/>nants are ſo ſilly to chuſe this place for the ſcene of their lies, where they may be ſo eaſily diſproved, but cuſtom hath hardned them in lying, and made them ſhameleſſe, believe it Sir there hath not been 20. men kild by the Enemy ſince we lay before this Town, we have now gained <hi>Cauſam</hi>-hill, have beate the enemy from the Church in the bottome, and are now maſters of that part of the town on this ſide the Bridge, and hope to maſter the reſt ſhortly, on munday the Governour <hi>Aſton</hi> offered to render the town, if he might march away with Bag, and Baggage, it was anſwered that we came for the men, not for the Town, it is ſince reported they would yeeld the town upon quarter, and leave to paſſe to his Majeſty without their Arms, which is ſaid is denied, becauſe they refuſed quarter before, there are 7. broken Regiments in the town, in all about 3000. men, wee hope by this Siege to ingage them to a Battell, of which there is ſome probability, for the King drawes his forces toge<g ref="char:EOLhyphen"/>ther, and the Parliament do the like, Prince Rupert they ſay, and Haſtings are come to Oxford, but tis certain they were at Litchfield the 16. of this moneth, the Lord Grey is joyned with his Excellency, and hath brought 7000. Horſe and Foot, the Garriſon and country Voluntiers with Colonell Goodwin are about 5000. 3. or 4000. volun<g ref="char:EOLhyphen"/>tiers are come in to my Lord Generall, out of the adjacent Counties, ſo that it is all the Campe talke, that if the Ca<g ref="char:EOLhyphen"/>valiers come not out of Oxford to meet us here, that wee ſhall ſpeedily find them at Oxford, except they run for it, for we hope to play them ſuch loud Muſicke with our Campe Organs, as ſhall make their beſt Bulwarks quake, we expect to meet Sir William Waller at Oxford with 8000. men, be confident in a weekes time you ſhall ſee the ſcales turne: if wee remove from Redding. Sergeant Major Skippon ſhall be left to continue this Siege, with ſufficient ſtrength. I pray God teach our hearts to pray, and our ſingers to fight.</p>
+            <closer>
+               <salute>Vale.</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
